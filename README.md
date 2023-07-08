@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# History
+
+2023 POSTECH 23
+
+2021 ~ 2022 GSHS 38th
+
+# Support
+
 <!--
 **carotinoid/carotinoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
