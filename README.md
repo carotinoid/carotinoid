@@ -17,8 +17,7 @@
 [![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=carotinoid1807)](https://solved.ac/profile/carotinoid1807)
 
 # Support
-
-https://www.buymeacoffee.com/carotinoid
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carotinoid)
 
 
 <!--
