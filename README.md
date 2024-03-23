@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 # History
 
@@ -8,13 +8,13 @@
 
 # Stat
 ## My github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carotinoid&show_icons=true&theme=dracula) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carotinoid&show_icons=true&theme=dracula)]() 
 
 ## Top used langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carotinoid&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carotinoid&layout=compact&theme=dracula)]()
 
 ## BOJ & solved
-[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=carotinoid1807)](https://solved.ac/{handle})
+[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=carotinoid1807)](https://solved.ac/profile/carotinoid1807)
 
 # Support
 
