@@ -6,6 +6,16 @@
 
 2021 ~ 2022 GSHS 38th
 
+# Stat
+## My github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carotinoid&show_icons=true&theme=dracula) 
+
+## Top used langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carotinoid&layout=compact&theme=dracula)
+
+## BOJ & solved
+[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=carotinoid1807)](https://solved.ac/{handle})
+
 # Support
 
 https://www.buymeacoffee.com/carotinoid
